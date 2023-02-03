@@ -75,6 +75,9 @@ Atualmente sou Gerente de projetos na WeON Omnichannel.
 </div>
 
 <h3> Testes </h3>
+<p>
+Tenho conhecimento profundo sobre Test Driven Development (TDD) e sigo as melhores práticas de desenvolvimento de software. Acredito que aplicar TDD é importante para garantir a qualidade do código e evitar erros críticos. Utilizo algumas das ferramentas mais avançadas, como xUnit e Moq, para construir testes automatizados que me ajudam a criar soluções robustas. Além disso, também faço uso dos princípios ágeis para gerenciar meus projetos de software de forma eficiente.
+</p>
 <div style="display: inline_block"><br>
 <img align="center" alt="" height="40" width="40" src="https://camo.githubusercontent.com/49173798507f976bb55ad37f4ca77403429bbb0ec54a146a391e53d694a738bd/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f492f696e736f6d6e69612d6c6f676f2d413335453039454231392d7365656b6c6f676f2e636f6d2e706e67"/>
 
