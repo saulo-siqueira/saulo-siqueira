@@ -9,7 +9,7 @@ Sou graduado em análise e desenvolvimento de sistemas e pós-graduado em Gerenc
 Atualmente sou Gerente de projetos na WeON Omnichannel.
 
 - Amo a  e realmente os seus produtos são mágicos.
-- 🌱 Estou trabalhando em algo incrível para mudar a minha vida
+- 🌱 Estou trabalhando em algo incrível ⚡️
 - 🧭 Adoro viajar ✈️
 - 👨‍🍳 Adoro cozinhar 🔪
 - 🎮 Jogador de Mortal Kombat 🥷
