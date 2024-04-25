@@ -28,8 +28,10 @@ Sou proficiente em Javascript e tenho conhecimento e experiência prática em bi
 </p>
 <div style="display: inline_block"><br>
     
-<img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+<img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" />
+<img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" />
+<img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" /> 
+<img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MaterialUI-Dark.svg"/>
 <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg"/>
 <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original-wordmark.svg"/>
 
@@ -46,9 +48,6 @@ Sou proficiente em Javascript e tenho conhecimento e experiência prática em bi
 <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bower/bower-original-wordmark.svg"/>
 
-<img align="center" alt="" height="60" width="60" src=""/>
-
-
 </div>
 
 <br>
@@ -57,8 +56,8 @@ Sou proficiente em Javascript e tenho conhecimento e experiência prática em bi
 Possuo conhecimento avançado em SQL, modelagem de dados e análise de informações. Sou capaz de desenvolver soluções de banco de dados para atender às necessidades dos negócios. Tenho experiência em criar queries complexas e construir processos automatizados. Compreendo a importância da segurança dos dados, gerenciamento eficiente e performance ótima. Eu domino PostgreSQL com competência e precisão. Estou bem equipado com os conhecimentos necessários para trabalhar em projetos de Banco de Dados relacionais. A minha experiência me habilita a escrever instruções SQL, criar esquemas, implementar técnicas avançadas e solucionar problemas complexos.
 </p>
 <div style="display: inline_block"><br>
-    <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-    <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg"/>
+    <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg"/>
 </div>
 
 <br>
@@ -74,7 +73,8 @@ Possuo conhecimento avançado em SQL, modelagem de dados e análise de informaç
 <br>
 <h3> Design </h3>
 <p>
-Design é um elemento essencial para qualquer projeto bem-sucedido. Eu tenho experiência no Adobe XD, Figma e design geral. Estou sempre disposto a aprender mais sobre esses programas para melhorar minhas habilidades.
+O design é um componente fundamental para o sucesso de qualquer projeto, uma filosofia também compartilhada por figuras icônicas como Jony Ive da Apple, cujo trabalho revolucionou a estética moderna de produtos tecnológicos. Inspirado por sua abordagem inovadora, possuo experiência em ferramentas de design de ponta como o Figma. 
+Estou sempre buscando expandir meu conhecimento e habilidades para manter meu trabalho alinhado com os padrões de excelência e inovação que definem a indústria atual.
 </p>
 <div style="display: inline_block"><br>
 <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"/>
