@@ -1,18 +1,21 @@
-Olá, seja bem vindo ao meu perfil!
+Olá, bem-vindo ao meu perfil no GitHub!
 
-Prazer, me chamo Saulo! 
+Meu nome é Saulo e tenho mais de 15 anos de experiência em desenvolvimento web, com uma forte preferência por PHP, embora tenha vasta experiência com Java também.
 
-Trabalho com desenvolvimento já fazem 15 anos. Sou especialista em desenvolvimento WEB e a minha linguagem preferida é o PHP mas já trabalhei muito com Java também.
+Sou graduado em Análise e Desenvolvimento de Sistemas e possuo pós-graduação em Gerenciamento de Projetos de TI, além de certificações em SCRUM e DevOps.
 
-Sou graduado em análise e desenvolvimento de sistemas e pós-graduado em Gerenciamento de projeto de TI. Possuo certificação SCRUM e DevOps.
+Atualmente, ocupo o cargo de Gerente de Projetos na WeON Omnichannel.
 
-Atualmente sou Gerente de projetos na WeON Omnichannel.
+Sou um grande fã dos produtos da Apple, que considero realmente mágicos.
 
-- Amo a  e realmente os seus produtos são mágicos.
-- 🌱 Estou trabalhando em algo incrível ⚡️
-- 🧭 Adoro viajar ✈️
-- 👨‍🍳 Adoro cozinhar 🔪
-- 🎮 Jogador de Mortal Kombat 🥷
+🌱 Atualmente, estou desenvolvendo um aplicativo de criptomoedas que usa inteligência artificial. Estou escrevendo ele em React, Laravel, PostgreSQL, hospedado na Vercel e gerenciado através da Digital Ocean. Se você tiver interesse em saber mais pode me contatar que eu libero um acesso beta.
+
+Além de tecnologia:
+🧭 Sou apaixonado por viagens ✈️
+👨‍🍳 Adoro cozinhar 🔪
+🎮 E sou um ávido jogador de Mortal Kombat 🥷
+
+Espero que goste do que você encontra aqui e estou ansioso para colaborar em projetos inovadores!
 
 
 <h3> Linguagens e Frameworks </h3>
