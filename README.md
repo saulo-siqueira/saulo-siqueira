@@ -109,12 +109,11 @@ Sou um profissional DevOps certificado e posso afirmar com orgulho que tenho amp
 <br>
 <h3> Testes </h3>
 <p>
-Tenho conhecimento profundo sobre Test Driven Development (TDD) e sigo as melhores práticas de desenvolvimento de software. Acredito que aplicar TDD é importante para garantir a qualidade do código e evitar erros críticos. A seguir algumas das ferramentas que utilizo.
-</p>
+Possuo conhecimento aprofundado em Test Driven Development (TDD) e adoto as melhores práticas de desenvolvimento de software, uma abordagem que considero essencial para assegurar a qualidade do código e prevenir erros críticos. Minha convicção na eficácia do TDD é tão forte que escolhi este tema para minha pesquisa de conclusão de pós-graduação, explorando em profundidade suas aplicações e benefícios. Aqui estão algumas das ferramentas que utilizo para implementar essa metodologia no meu trabalho diário.</p>
 <div style="display: inline_block"><br>
-<img align="center" alt="" height="40" width="40" src="https://camo.githubusercontent.com/49173798507f976bb55ad37f4ca77403429bbb0ec54a146a391e53d694a738bd/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f492f696e736f6d6e69612d6c6f676f2d413335453039454231392d7365656b6c6f676f2e636f6d2e706e67"/>
-<img align="center" alt="" height="40" width="40" src="https://camo.githubusercontent.com/92ea4ceaecae93a7aa14fba9fc807f861853245e512a47bc16615277ac4e3a79/68747470733a2f2f61737365742e6272616e6466657463682e696f2f696449715f6b463072622f696476337a776d5369592e6a706567"/>
-<img align="center" alt="" height="40" width="40" src="https://camo.githubusercontent.com/23db4cf88995cc1792f8ba7d387050cdabe3c491207910db64b305c05f0b93ba/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f53656c656e69756d5f4c6f676f2e706e67"/>
+<img align="center" alt="" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png"/>
+<img align="center" alt="" height="40" width="40" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png"/>
+<img align="center" alt="" height="40" width="40" src=""/>
     
 </div>
 
